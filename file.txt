@@ -4,3 +4,5 @@ On idea1 branch, I edited the 2nd lone.
 On master branch.
 next edit on master branch...
 
+Have created branch idea3, but still work on branch master.
+
