@@ -4,3 +4,5 @@ On idea1 branch, I edited the 2nd lone.
 On master branch.
 On idea2 add this line.
 
+So try the 3rd idea :~)
+
