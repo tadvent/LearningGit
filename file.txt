@@ -1,6 +1,6 @@
-This is the first edit in master branch.
-In idea1 branch, I edited the 2nd line.
+This is the first edit on master branch.
+On idea1 branch, I edited the 2nd lone.
 
-In master branch.
-In idea2 add this line.
+On master branch.
+On idea2 add this line.
 
