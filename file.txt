@@ -2,7 +2,9 @@ This is the first edit on master branch.
 On idea1 branch, I edited the 2nd lone.
 
 On master branch.
-next edit on master branch...
+On idea2 add this line.
+
+Go on with idea2...
 
 Have created branch idea3, but still work on branch master.
 Now come back to idea2..
