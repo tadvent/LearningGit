@@ -9,3 +9,5 @@ Go on with idea2...
 Have created branch idea3, but still work on branch master.
 Now come back to idea2..
 
+new line
+
