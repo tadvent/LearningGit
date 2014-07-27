@@ -10,7 +10,7 @@ Have created branch idea3, but still work on branch master.
 Now come back to master..
 Now I changed to idea3, hahaha ~~
 
-new line
+new line a vimdifftest.
 new line 2..
 
 master is not vimdiff..
