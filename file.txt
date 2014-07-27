@@ -7,9 +7,11 @@ On idea2 add this line.
 Go on with idea2...
 
 Have created branch idea3, but still work on branch master.
-Now come back to idea2..
+Now come back to vimdifftest..
 Now I changed to idea3, hahaha ~~
 
-new line
+new line a vimdifftest.
 new line 2..
+
+vimdifftest
 
