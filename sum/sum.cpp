@@ -2,7 +2,7 @@
 #include<iostream>
 #include<vector>
 #include<initializer_list>
-#include<function>
+#include<functional>
 
 using namespace std;
 
