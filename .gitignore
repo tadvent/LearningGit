@@ -1,3 +1,9 @@
 # auto generated files
 *.orig
 
+# c++ build files
+*.o
+*.lib
+*.exe
+**/build/
+
