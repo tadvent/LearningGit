@@ -24,7 +24,7 @@ int main(){
     cout << "accu2: " << accu2(4) << endl;
 
     cout << "accu1: " << accu1(4) << endl;
-    cout << "accu2: " << accu2(4) << endl;
+    cout << "accu2: " << accu2(5) << endl;
 
     system("pause");
 }
