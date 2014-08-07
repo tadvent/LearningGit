@@ -15,16 +15,16 @@ int main(){
     };
 
     auto accu1 = summor(100);
-    auto accu2 = summor(10000);
+    auto accu2 = summor(1000);
 
     cout << "accu1: " << accu1(1) << endl;
     cout << "accu2: " << accu2(1) << endl;
 
     cout << "accu1: " << accu1(2) << endl;
-    cout << "accu2: " << accu2(4) << endl;
+    cout << "accu2: " << accu2(2) << endl;
 
     cout << "accu1: " << accu1(4) << endl;
-    cout << "accu2: " << accu2(5) << endl;
+    cout << "accu2: " << accu2(4) << endl;
 
     system("pause");
 }
